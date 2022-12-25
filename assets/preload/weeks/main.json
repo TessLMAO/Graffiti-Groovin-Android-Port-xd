@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Soda Pop", "skarlet", [77, 77, 77]],
+		["Fuss", "skarlet", [77, 77, 77]],
+		["Streetstyle", "skarlet", [77, 77, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Bunny",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Main Week",
+	"difficulties": "Normal",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

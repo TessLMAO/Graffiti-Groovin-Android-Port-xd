@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Bunboxxin", "matt", [77, 77, 77]],
+		["Sinister", "spooky", [77, 77, 77]],
+		["Ignited", "darnell", [77, 77, 77]],
+		["Philly Nice", "pico", [77, 77, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Second Week",
+     "difficulties": "Normal",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
