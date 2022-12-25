@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-211,
-				-287
+				0,
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -14,64 +14,64 @@
 		{
 			"loop": false,
 			"offsets": [
-				-198,
-				-269
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-150,
-				-365
+				7,
+				-8
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "pump_down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-198,
-				-320
+				-31,
+				-20
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "right",
+			"name": "pump_right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-202,
-				-249
+				66,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pump_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				64
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "pump_up",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/pico",
+	"image": "characters/pump",
 	"position": [
-		-90,
-		20
+		100,
+		340
 	],
-	"healthicon": "pico",
+	"healthicon": "spooky",
 	"flip_x": false,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		213,
+		106,
+		0
 	],
 	"camera_position": [
-		210,
-		300
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1
